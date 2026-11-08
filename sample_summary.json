@@ -1,0 +1,234 @@
+{
+  "overall": {
+    "records": 1344,
+    "mean_delay": 3.66,
+    "median_delay": 3.0,
+    "std_delay": 4.52,
+    "p90_delay": 8.0,
+    "max_delay": 51.0,
+    "min_delay": -3.0,
+    "on_time_pct": 73.4,
+    "severe_pct": 0.7
+  },
+  "rejected_rows": 5,
+  "iqr_rule": {
+    "q1": 1.0,
+    "q3": 6.0,
+    "iqr": 5.0,
+    "upper_fence": 13.5,
+    "lower_fence": -6.5
+  },
+  "by_route": [
+    {
+      "route_id": "R1",
+      "route_name": "Campus - Sector V",
+      "records": 448.0,
+      "mean_delay": 1.88,
+      "median_delay": 2.0,
+      "p90_delay": 5.0,
+      "max_delay": 8.0,
+      "on_time_pct": 94.64,
+      "severe_pct": 0.0
+    },
+    {
+      "route_id": "R2",
+      "route_name": "Campus - Esplanade",
+      "records": 448.0,
+      "mean_delay": 3.44,
+      "median_delay": 3.0,
+      "p90_delay": 8.0,
+      "max_delay": 31.0,
+      "on_time_pct": 74.11,
+      "severe_pct": 0.67
+    },
+    {
+      "route_id": "R3",
+      "route_name": "Campus - Howrah",
+      "records": 448.0,
+      "mean_delay": 5.68,
+      "median_delay": 5.0,
+      "p90_delay": 11.0,
+      "max_delay": 51.0,
+      "on_time_pct": 51.34,
+      "severe_pct": 1.34
+    }
+  ],
+  "by_day": [
+    {
+      "service_date": "2026-09-07",
+      "records": 120.0,
+      "mean_delay": 3.41,
+      "median_delay": 3.0,
+      "p90_delay": 8.0,
+      "max_delay": 11.0,
+      "on_time_pct": 74.17,
+      "severe_pct": 0.0,
+      "weekday": "Monday"
+    },
+    {
+      "service_date": "2026-09-08",
+      "records": 120.0,
+      "mean_delay": 4.63,
+      "median_delay": 2.5,
+      "p90_delay": 10.0,
+      "max_delay": 51.0,
+      "on_time_pct": 65.83,
+      "severe_pct": 2.5,
+      "weekday": "Tuesday"
+    },
+    {
+      "service_date": "2026-09-09",
+      "records": 120.0,
+      "mean_delay": 3.83,
+      "median_delay": 3.5,
+      "p90_delay": 9.0,
+      "max_delay": 14.0,
+      "on_time_pct": 73.33,
+      "severe_pct": 0.0,
+      "weekday": "Wednesday"
+    },
+    {
+      "service_date": "2026-09-10",
+      "records": 120.0,
+      "mean_delay": 4.2,
+      "median_delay": 3.0,
+      "p90_delay": 11.0,
+      "max_delay": 14.0,
+      "on_time_pct": 69.17,
+      "severe_pct": 0.0,
+      "weekday": "Thursday"
+    },
+    {
+      "service_date": "2026-09-11",
+      "records": 120.0,
+      "mean_delay": 3.56,
+      "median_delay": 2.0,
+      "p90_delay": 8.1,
+      "max_delay": 12.0,
+      "on_time_pct": 70.83,
+      "severe_pct": 0.0,
+      "weekday": "Friday"
+    },
+    {
+      "service_date": "2026-09-12",
+      "records": 36.0,
+      "mean_delay": 1.31,
+      "median_delay": 1.0,
+      "p90_delay": 3.5,
+      "max_delay": 7.0,
+      "on_time_pct": 83.33,
+      "severe_pct": 0.0,
+      "weekday": "Saturday"
+    },
+    {
+      "service_date": "2026-09-13",
+      "records": 36.0,
+      "mean_delay": 2.5,
+      "median_delay": 1.5,
+      "p90_delay": 6.0,
+      "max_delay": 7.0,
+      "on_time_pct": 75.0,
+      "severe_pct": 0.0,
+      "weekday": "Sunday"
+    },
+    {
+      "service_date": "2026-09-14",
+      "records": 120.0,
+      "mean_delay": 4.18,
+      "median_delay": 3.0,
+      "p90_delay": 8.0,
+      "max_delay": 31.0,
+      "on_time_pct": 70.83,
+      "severe_pct": 2.5,
+      "weekday": "Monday"
+    },
+    {
+      "service_date": "2026-09-15",
+      "records": 120.0,
+      "mean_delay": 3.27,
+      "median_delay": 3.0,
+      "p90_delay": 9.0,
+      "max_delay": 12.0,
+      "on_time_pct": 79.17,
+      "severe_pct": 0.0,
+      "weekday": "Tuesday"
+    },
+    {
+      "service_date": "2026-09-16",
+      "records": 120.0,
+      "mean_delay": 3.58,
+      "median_delay": 3.0,
+      "p90_delay": 9.0,
+      "max_delay": 12.0,
+      "on_time_pct": 73.33,
+      "severe_pct": 0.0,
+      "weekday": "Wednesday"
+    },
+    {
+      "service_date": "2026-09-17",
+      "records": 120.0,
+      "mean_delay": 4.47,
+      "median_delay": 3.0,
+      "p90_delay": 8.0,
+      "max_delay": 43.0,
+      "on_time_pct": 70.0,
+      "severe_pct": 2.5,
+      "weekday": "Thursday"
+    },
+    {
+      "service_date": "2026-09-18",
+      "records": 120.0,
+      "mean_delay": 3.52,
+      "median_delay": 3.0,
+      "p90_delay": 8.0,
+      "max_delay": 11.0,
+      "on_time_pct": 70.0,
+      "severe_pct": 0.0,
+      "weekday": "Friday"
+    },
+    {
+      "service_date": "2026-09-19",
+      "records": 36.0,
+      "mean_delay": 2.03,
+      "median_delay": 2.0,
+      "p90_delay": 4.0,
+      "max_delay": 6.0,
+      "on_time_pct": 97.22,
+      "severe_pct": 0.0,
+      "weekday": "Saturday"
+    },
+    {
+      "service_date": "2026-09-20",
+      "records": 36.0,
+      "mean_delay": 2.08,
+      "median_delay": 2.0,
+      "p90_delay": 4.0,
+      "max_delay": 7.0,
+      "on_time_pct": 94.44,
+      "severe_pct": 0.0,
+      "weekday": "Sunday"
+    }
+  ],
+  "by_period": [
+    {
+      "period": "Off-peak",
+      "records": 528.0,
+      "mean_delay": 2.6,
+      "median_delay": 2.0,
+      "p90_delay": 5.3,
+      "max_delay": 51.0,
+      "on_time_pct": 88.64,
+      "severe_pct": 1.14
+    },
+    {
+      "period": "Peak",
+      "records": 816.0,
+      "mean_delay": 4.35,
+      "median_delay": 4.0,
+      "p90_delay": 9.0,
+      "max_delay": 43.0,
+      "on_time_pct": 63.48,
+      "severe_pct": 0.37
+    }
+  ]
+}

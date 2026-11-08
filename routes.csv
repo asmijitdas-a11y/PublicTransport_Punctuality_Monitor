@@ -1,0 +1,13 @@
+route_id,route_name,stop_order,stop_name,offset_min
+R1,Campus - Sector V,1,Campus Gate,0
+R1,Campus - Sector V,2,Salt Lake Stadium,12
+R1,Campus - Sector V,3,City Centre,22
+R1,Campus - Sector V,4,Sector V,35
+R2,Campus - Esplanade,1,Campus Gate,0
+R2,Campus - Esplanade,2,Ultadanga,14
+R2,Campus - Esplanade,3,Sealdah,26
+R2,Campus - Esplanade,4,Esplanade,40
+R3,Campus - Howrah,1,Campus Gate,0
+R3,Campus - Howrah,2,Park Circus,15
+R3,Campus - Howrah,3,Park Street,28
+R3,Campus - Howrah,4,Howrah Station,48
